@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">PesawatKomersil</string>
+
+    <string name="list_plane">List Pesawat</string>
+    <string name="about">About Profile</string>
+
+    <string name="my_name">Jhoni Ananta Sitepu</string>
+    <string name="my_email">jhoniananta@gmail.com</string>
+
+    <string name="plane_name">Nama Pesawat Komersil</string>
+    <string name="plane_description">Deskripsi</string>
+
+    <string name="content_overview">Content Overview</string>
+
+    <string name="planes_name">Nama Pesawat Komersil</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Boeing 737</item>
+        <item>Airbus A320</item>
+        <item>ATR 72</item>
+        <item>Boeing 777</item>
+        <item>Airbus A330</item>
+        <item>Boeing 787</item>
+        <item>Airbus A321</item>
+        <item>Boeing 747</item>
+        <item>Boeing 707</item>
+        <item>Airbus A380</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Pertama, mari berkenalan dengan pesawat tipe Boeing 737. Tipe pesawat Boeing 737 kerap digunakan untuk penerbangan dengan rute pendek hingga menengah. Pesawat ini memiliki kapasitas yang beragam, mulai dari 85 hingga 215 penumpang. Dapat dikatakan, bahwa Boeing 737 adalah tipe pesawat yang paling laris sepanjang sejarah. Tahun 1967 merupakan tahun dimana Boeing 737 pertama kali diproduksi dan pada 13 Maret 2018, pesawat tersebut sudah terjual hingga 10.000 unit! Di Indonesia, perusahaan penerbangan yang masih memakai Boeing 737 adalah Garuda Indonesia, Sriwijaya Air, dan Lion Air. Sementara, maskapai penerbangan luar negeri yang menggunakan Boeing 737 adalah China Southern Airlines, Malaysia Airlines, Korean Air dan Egypt Air.</item>
+        <item>Seri pesawat lainnya yang paling banyak digunakan oleh industri penerbangan adalah Airbus A320. Serupa dengan Boeing 737, Airbus A320 adalah tipe pesawat jet yang memiliki mesin ganda dengan jarak pendek hingga menengah. Seri Airbus A320 memiliki kemampuan untuk menampung hingga 236 penumpang serta mampu terbang dengan jarak 3.100 km hingga 12.000 km. Pesawat tipe Airbus A320 pertama kali diperkenalkan pada Maret 1984 dan terbang untuk pertama kalinya pada 22 Februari 1987. Tercatat, hingga 31 Mei 2019, seri Airbus A320 sudah diproduksi sebanyak 8.845 unit dan masih ada 5.795 unit dengan status dalam pemesanan. Perusahaan penerbangan dalam negeri yang menggunakan pesawat tipe Airbus A320 adalah Batik Air, Citilink dan Lion Air. Maskapai Scoot juga menggunakan pesawat Airbus A320 untuk rute penerbangan Jakarta-Singapura.</item>
+        <item>Berbeda dengan pesawat lain, pesawat tipe ATR 72 tak memakai mesin jet, tetapi menggunakan tipe pesawat turboprop dengan mesin ganda. ATR 72 khusus digunakan untuk melayani rute penerbangan dengan jangka pendek. Tak hanya dipakai sebagai pesawat komersial, ATR 72 juga digunakan untuk pesawat patroli maritim serta pesawat kargo. Karena hanya digunakan untuk penerbangan dengan rute pendek, kapasitas penumpang dari tipe pesawat ini juga kecil. ATR 72 adalah tipe pesawat yang memiliki seat 2–2 serta mampu mengangkut hanya 68–78 penumpang. Maskapai dalam negeri yang menggunakan ATR 72 adalah Wings Air, contoh rutenya adalah Ternate ke Pulau Morotai dan Sorong ke Manokwari.</item>
+        <item>Jika pada poin sebelumnya membahas mengenai pesawat dengan rute pendek hingga menengah, sekarang giliran pesawat dengan rute yang jauh. Boeing 777 adalah pesawat jet dengan mesin ganda dan ukuran badan yang lebar serta mampu menampung kurang lebih 314 hingga 396 penumpang sekaligus. Boeing 777 digunakan sebagai pesawat komersil untuk pertama kalinya oleh United Airlines pada 7 Juni 1995. Hingga pada Januari 2019, Boeing 777 sudah dipesan sebanyak 2.013 unit, jumlah tersebut terbilang lebih banyak apabila dibandingkan dengan pesawat berbadan lebar yang lainnya. Boeing 777 digunakan oleh Emirates untuk penerbangan dengan rute Dubai-Riyadh dan Dubai-Jakarta serta digunakan juga oleh Malaysia Airlines untuk penerbangan dengan rute Kuala Lumpur-Dubai.</item>
+        <item>Kembali pesawat dari Airbus untuk unjuk diri, mari berkenalan dengan pesawar Airbus A330. Tipe ini merupakan pesawat jet dengan ganda yang melayani rute penerbangan menegah hingga jarak jauh. Airbus A330 bisa menjangkau 5.000 km dan bahkan hingga 13.430 km serta mampu untuk membawa hingga 335 penumpang. Airbus A330 mempunyai tipe seat 2–4–2. Pesawat Airbus A330–200 memiliki kemampuan untuk menampung hingga 406 penumpang, sementara Airbus A330–300 mempunyai kapasitas maksimal hingga mencapai 440 penumpang. Etihad Airways adalah maskapai yang memakai pesawat dengan tipe Airbus A330, contoh rutenya adalah dari Abu Dhabi ke Dublin, Irlandia dan Jakarta ke Abu Dhabi. Begitu pula dengan Air China Airlines yang menggunakan Airbus A330 untuk penerbangan dengan rute Jakarta-Beijing.</item>
+        <item>Juga dikenal dengan sebutan Dreamliner, Boeing 787 merupakan pencapaian yang luar biasa dari Boeing karena mempunyai efisiensi bahan bakar apabila dibandingkan dengan pesawat tipe lainnya. Ukurannya yang besar dapat memuat 242 hingga 335 penumpang dengan sekaligus, pesawat Boeing 787 memiliki tipe seat 3–3–3. Boeing 787 dirilis pertama kali pada 15 Desember 2009 serta digunakan untuk penerbangan pertama kalinya oleh All Nippon Airways pada 26 Oktober 2011. Boeing 787 mempunyai tiga sub tipe, yakni 787–8, 787–9 dan 787–10. Perbedaan di antara tiga tipe tersebut ialah berdasarkan dari ukuran serta kapasitas penumpang. Tipe pesawat Boeing 787 dipakai oleh beberapa maskapai, seperti Etihad Airways, American Airlines, Qatar Airways, Japan Airlines, dan Air China.</item>
+        <item>Berlanjut ke Airbus A321, pesawat jet yang memiliki mesin ganda serta melayani penerbangan dengan rute jarak pendek hingga menengah. Airbus A321 pertama kali diterbangkan pada 11 Maret 1993, tetapi baru diperkenalkan pada tahun 1994 oleh maskapai penerbangan yang berasal dari Jerman, yakni Lufthansa. Hingga pada Januari 2019, Airbus A321 sudah terjual hingga 1.850 unit. Airbus A321 dibagi menjadi dua sub tipe, yakni A321 dan A321 Neo. Kapasitas maksimal yang dimiliki oleh A321 adalah bisa memuat 220 hingga 240 penumpang, sementara A321 Neo bisa memuat hingga 244 penumpang. Airbus A321 dipakai oleh beberapa maskapai, seperti Delta Airlines, Lufthansa dan Vietnam Airlines.</item>
+        <item>Berbeda dengan pesawat-pesawat lainnya, Boeing 747 adalah pesawat komersial yang memiliki badan lebar serta dilengkapi dengan empat jet pada bagian sayapnya. Tidak mengherankan apabila Boeing 747 dijuluki sebagai jet jumbo. Siapa yang menyangka, Boeing 747 pertama kali diluncurkan pada 9 Februari 1969 dan baru diperkenalkan dengan cara komersial pada tahun 1970 oleh Pan American World Airways. Per Juni 2014 Boeing 747 sudah terjual hingga lebih dari 1.500 unit. Boeing 747 bisa menampung mulai dari 276 hingga 467 penumpang. Per Januari 2019, ada puluhan maskapai penerbangan yang memakai Boeing 747 sebagai salah satu unit penerbangannya, seperti Thai Airways International, Saudia Arabian Airlines, Virgin Atlantic, Qantas, Cathay Pacific, Korean Air, dan lain sebagainya. Tidak sekadar digunakan untuk pesawat komersial, Boeing 747 juga banyak digunakan sebagai pesawat kargo, lho!</item>
+        <item>Serupa dengan Boeing 747, Boeing 707 adalah pesawat jet empat mesin yang memiliki ukuran sedang serta dipakai untuk penerbangan dengan rute menengah ke jarak jauh. Pesawat ini mempunyai kapasitas penumpang antara 140 hingga 219 penumpang serta dapat menempuh jarak antara 4.630 km hingga 10.650 km. Pada 20 Desember 1957, pesawat Boeing 707 pertama kali diluncurkan. Selain digunakan untuk pesawat komersial, Boeing 707 juga dipakai sebagai pesawat militer. Tidak sekadar digunakan oleh angkatan udara Kanada dan Amerika, Boeing 707 juga dimanfaatkan oleh TNI Angkatan Udara Republik Indonesia, lho! Disamping itu, angkatan udara Iran, Kolombia, Argentina, Mesir dan Australia juga memakai pesawat dengan tipe yang sama.</item>
+        <item>Pesawat tiper Airbus A380 sebagai pesawat paling banyak yang digunakan oleh maskapai penerbangan. Pesawat ini disebut juga sebagai pesawat penumpang palig besar yang diproduksi oleh Airbus. Airbus A380 juga merupakan rival utama dari Boeing 747. Pesawat tipe ini dapat menampung hingga 575 penumpang sekaligus. Meski demikian, Airbus mengumumkan akan menghentikan produksi Airbus A380 pada tahun 2021, karena pelanggan utamanya, yakni Emirates, membatalkan pesanan 39 pesawat serta menggantinya dengan 40 unit A330–900 dan 30 unit A350–900. Padahal, tipe Airbus A380 digunakan oleh berbagai maskapai, mulai dari British Airways, Lufthansa, Singapore Airlines, Qantas dan Air France.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/boeing737</item>
+        <item>@drawable/airbus_a320</item>
+        <item>@drawable/atr72</item>
+        <item>@drawable/boeing777</item>
+        <item>@drawable/airbus_a330</item>
+        <item>@drawable/boeing787</item>
+        <item>@drawable/airbus_a321</item>
+        <item>@drawable/boeing747</item>
+        <item>@drawable/boeing707</item>
+        <item>@drawable/airbus_a380</item>
+    </integer-array>
+</resources>
